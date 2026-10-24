@@ -50,7 +50,7 @@ SkillPilot-AI/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SkillPilot-AI.git
+git clone https://github.com/vedasriveerannapet-source/SkillPilot-AI.git
 cd SkillPilot-AI
 ```
 
