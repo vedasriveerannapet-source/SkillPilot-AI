@@ -1,4 +1,10 @@
 # ✨ SkillPilot AI — Your Personal Career Planner
+## 🚀 Live Demo
+
+Try SkillPilot AI here: [Open SkillPilot AI](https://skillpilot-ai-4mdncvpc3zp2gopzfydlet.streamlit.app/)
+
+
+
 
 SkillPilot AI is an AI-powered career planning application built with Python and Streamlit. It helps students identify the skills needed for their target career, understand skill gaps, and create a personalized learning roadmap using Google's Gemini AI.
 
